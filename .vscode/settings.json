@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.cs": "csharp",
+        "cmath": "cpp",
+        "map": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "queue": "cpp"
+    }
+}
